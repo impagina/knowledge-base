@@ -13,6 +13,8 @@ You can easily create an hanging indent in the main Scribus UI, but you have lit
 
 Or you can create a "list" style and define its indent in a more controlled way:
 
-![Create the haning indents with the style / text properties](gif.gif)
+![Create the haning indents with the style / text properties](style.gif)
+
+You can create a new style with "Edit > Styles Manager".
 
 Don't forget to add a tab, since scribus does  "snap" to the indents.
