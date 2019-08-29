@@ -38,6 +38,10 @@ Du bist schließlich bereit, die Etikette zu duplizieren:
 - Das Pdf erstellen.
 - Wahrscheinlich wirst du die Datei mit den duplizierten Elementen nicht speichern wollen, sondern nur nach Pdf exportieren, also vor dem Duplizieren speichern!
 
+## Imposition
+
+- `pdfmerge` und `pdfnup` aus dem `pdffjam` Package.
+
 ## The Scribus Generator
 
 Der [Scribus Generator](https://github.com/berteh/ScribusGenerator) ist ein Python-Skript, mit dem Sie Mail-Merging mit Scribus durchführen können.

@@ -37,8 +37,15 @@ Your finally ready to duplicate the label:
 - Create the Pdf.
 - You will probably not want to save the file with the duplicated items, only export it to Pdf, so save before duplicating!
 
+## Imposition
+
+Again, if all labels are the same, you can create the labels at their final size, produce a pdf with a single label, and use an imposition tool to create the final document.
+
+- `pdfmerge` and `pdfnup` from the `pdffjam` package.
+
 ## The Scribus Generator
 
 The [Scribus Generator](https://github.com/berteh/ScribusGenerator) is a Python script that lets you do mail merging with Scribus.
 
 More details will follow.
+
