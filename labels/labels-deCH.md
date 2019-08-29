@@ -23,7 +23,7 @@ Mit " Seite > Hilfslinien verwalten " ein Raster erstellen; In der " Spalte / Ze
 
 ![Create column and rows](columns-rows.png)
 
-Nun kannst du das Etikett in der linken oberen _Zelle_ erstellen.
+Nun kannst du die Etikette in der linken oberen _Zelle_ erstellen.
 
 Wenn du bereit bist, das endgültige Pdf zu erstellen, brauchst du noch einen transparenten Rahmen um deine Vorlage:
 
@@ -31,7 +31,7 @@ Wenn du bereit bist, das endgültige Pdf zu erstellen, brauchst du noch einen tr
 - klicke mit der Shift-Taste innerhalb des Bereichs der ersten Zelle, um ein Rechteck von der Größe der Zelle zu erstellen.
 - Die Kontur des Rechtecks transparent setzen (wählen dafür die Farbe _Keine_ aus).
 
-Du bist schließlich bereit, das Etikett zu duplizieren:
+Du bist schließlich bereit, die Etikette zu duplizieren:
 
 - Wähle den Inhalt der ersten Zelle aus.
 - Gehe zu "Element > Duplizieren / Transformieren > Mehrfach duplizieren", wählen Sie die Registerkarte "Nach Zeilen & Spalten", stelle die richtige Anzahl von Zeilen und Spalten ein und dupliziere.
