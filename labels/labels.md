@@ -28,11 +28,11 @@ When you're ready for creating the final Pdf, you need to first put a transparen
 
 - Activate the shape tool (with a rectangular shape).
 - Shift-click inside of the area of the first cell to create a rectangle of the size of the cell.
-- Make the stroke of the rectangle transparent (pick the _None_ color.
+- Make the stroke of the rectangle transparent (pick the _None_ color).
 
 Your finally ready to duplicate the label:
 
-- Select the content of the first cell (by clicking a bit more to the left and towards the top of the actual area and dragging down to the right corner and a bit further.
+- Select the content of the first cell (by clicking a bit more to the left and towards the top of the actual area and dragging down to the right corner and a bit further).
 - Go to "Item > Duplicate / Transform > Multiple dupclicate", pick the "By Rows & columns" tab, set the correct number of rows and columns and duplicate.
 - Create the Pdf.
 - You will probably not want to save the file with the duplicated items, only export it to Pdf, so save before duplicating!
